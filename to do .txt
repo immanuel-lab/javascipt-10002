@@ -1,0 +1,9 @@
+26.4.2023
+math function
+string templates
+array functions
+console methods in js in browser
+object functions
+special functions
+type conversion
+date 
