@@ -28,6 +28,9 @@ console.dir()
 console.count()
 console.countReset()
 
+console.time()
+console.timeEnd()
+
 
 // add css in console
 console.log("%c my name is immanuel","color:blue;background-color:yellow");

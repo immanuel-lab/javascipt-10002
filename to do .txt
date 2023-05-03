@@ -1,9 +1,15 @@
 26.4.2023
 math function
 string templates
-array functions
+type conversion
 console methods in js in browser
+
+
+28.4.2023
+array functions
+string methods
+json methods
 object functions
 special functions
-type conversion
+settimeout ,setinterverl
 date 
