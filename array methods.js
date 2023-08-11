@@ -1,7 +1,7 @@
 // push pop sort reverse fill join shift unshift tostring includes
 // indexof   delete  concat
 // splice
-
+// flat 
 
 
 
@@ -29,9 +29,9 @@
 // console.log(a<b);
 
 
-const points = [40, 100, 1, 5, 25, 10,-2];
-points.sort(function(a, b){return a - b});
-console.log(points);
+// const points = [40, 100, 1, 5, 25, 10,-2];
+// points.sort(function(a, b){return a - b});
+// console.log(points);
 
 
     
@@ -50,21 +50,22 @@ console.log(points);
 // console.log(languages);
 
 // let languages = ["Java", "Python", "C"];
-// languages.unshift('c#')
+// languages.unshift('c#','l')
 // console.log(languages);
 
 
 // let languages = ["JavaScript", "Java", "C++"];
-// let iteratorObject = languages.values();
-// for (let value of iteratorObject) {
+// let iteratorObject = languages.valueOf();
+// for (let value of languages) {
 //     console.log(value);
 //   }
+// console.log(iteratorObject);
+
 
 // let items = ["JavaScript", 1, "a", 3];
 // let items1=items.toString()
-// // console.log(items1);
-// let one=items[0]
-// console.log(typeof one);
+// console.log(items1);
+// console.log(typeof items1);
 
 
 // let items = ["JavaScript", 1, "a", 3];
@@ -73,8 +74,8 @@ console.log(points);
 
 // let languages = ["Java", "JavaScript", "Python", "JavaScript"];
 
-// // let index = languages.indexOf("JavaScript");
-// // console.log(index);
+//  let index = languages.indexOf("JavaScript");
+// console.log(index);
 
 // console.log(languages.count("java"));
 
@@ -131,3 +132,19 @@ console.log(points);
 
 
 
+// JavaScript "delete"
+// const Employee = {
+//     firstname: 'John',
+//     lastname: 'Doe'
+//   };
+// //   delete Employee.firstname;
+  
+//   console.log(Employee);
+//   console.table(Employee);
+  // expected output: "John"
+  
+
+// flat an array
+// let arr=[[1, 2], [3, 4], [5, 6]]
+// let arr1=arr.flat();
+// console.log(arr1);
