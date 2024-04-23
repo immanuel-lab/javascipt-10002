@@ -43,7 +43,7 @@
 // console.log(str1.toLowerCase());
 
 // let text = "How are you doing today?";
-// const myArray = text.split(" ");
+// let myArray = text.split(" ")
 // console.log(myArray);
 // let text1=myArray.join(" ")
 // console.log(text1)

@@ -1,17 +1,17 @@
 // for for of for each
 
 
-// let arr=[1,2,3,4,5]
+let arr=[1,2,3,4,5]
 // based on index
 // for (let i = 0; i < arr.length; i++) {
 //     console.log(arr[i]);
 // }
 
+// let i=0
 
 // for(i of arr){
 //     console.log(i);
 // }
-
 // for (i in arr) {
 //     console.log(arr[i]);
 // }

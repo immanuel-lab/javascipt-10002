@@ -1,8 +1,20 @@
-// push pop sort reverse fill join shift unshift tostring includes
-// indexof   delete  concat
-// splice
+// push pop  fill join shift unshift tostring
+// indexof   delete  concat 
+// splice,slice
+// join
 // flat 
+// Array .isArray .from
+// sort reverse
+// in includes
 
+// find,findIndexof
+// map filter reduce some every
+
+// in to determine whether an element in present in an array
+
+// let a=[1,2,3,4,5]
+// console.log(13 in a);
+// console.log(a.includes(1));
 
 
 
@@ -148,3 +160,30 @@
 // let arr=[[1, 2], [3, 4], [5, 6]]
 // let arr1=arr.flat();
 // console.log(arr1);
+
+
+
+
+
+// let arr=[1,2,3,4,5]
+// console.log(1 in arr);
+
+
+
+// for of loop
+// let arr = [1, 2, 3, 4, 5];
+
+// for (let item in arr) {
+//   console.log(item); 
+// }
+
+
+// for in loop
+// let arr = [1, 2, 3, 4, 5];
+
+// for (let item in arr) {
+//   console.log(item); 
+// }
+
+
+
